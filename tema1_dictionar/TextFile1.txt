@@ -1,0 +1,4 @@
+trandafir,floare,rosu,J:\\Facultate_IA\\anul2\\MVP medii vizuale de proframare\\tema1_dictionar\\trandafir.png
+mere,fructe,mere rosii,J:\\Facultate_IA\\anul2\\MVP medii vizuale de proframare\\tema1_dictionar\\mere.png
+pere,mancare,fucte,J:\\Facultate_IA\\anul2\\MVP medii vizuale de proframare\\tema1_dictionar\\default_picture.png
+peony,floare,este frumoasa fh,J:\\Facultate_IA\\anul2\\MVP medii vizuale de proframare\\tema1_dictionar\\peony.pngcatel,animal,frumos,J:\\Facultate_IA\\anul2\\MVP medii vizuale de proframare\\tema1_dictionar\\catel.png
